@@ -6,7 +6,7 @@ Author: Mahesh Reddy Sanikommu
 Date: June 2025
 
 Description:
-This project predicts monthly house rent based on area (in sqft) using linear regression.
+This project predicts monthly house rent based on  sqft using linear regression.
 The model is built from scratch with NumPy and visualized using Matplotlib.
 
 Features:
